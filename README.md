@@ -1,4 +1,3 @@
-Hello World! - TEST
+HELLO. This project is regarding Emacs editor with Cscope, Etag, ECB.
 
-Ryan Jung modified~!
 
